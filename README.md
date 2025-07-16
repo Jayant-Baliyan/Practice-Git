@@ -1,2 +1,1 @@
-# Practice-Git
-First git repo for practice
+This is my journey of learning react-native
